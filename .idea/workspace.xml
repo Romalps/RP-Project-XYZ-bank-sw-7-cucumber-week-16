@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d32d15e-0871-48bf-a859-c5bd3fc819d4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bank/browserfactory/ManageBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bank/pages/AddCustomerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bank/pages/CustomerLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bank/pages/Homepage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bank/pages/OpenAccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bank/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bank/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bank/cucumber/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bank/cucumber/runner/RegressionTestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bank/cucumber/runner/SanityTestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bank/cucumber/runner/SmokeTestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bank/cucumber/steps/BankSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/featurefile/Bank.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QEUmvgQDppDZ5qOZSUSqV29xGa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/romal/IdeaProjects/project-xyz-bank-sw-7-cucumber/src/test/java/com/bank/cucumber/steps"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bank.cucumber.runner" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RegressionTestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-xyz-bank-sw-7-cucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bank.cucumber.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bank.cucumber.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.bank.cucumber.runner.RegressionTestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RegressionTestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d32d15e-0871-48bf-a859-c5bd3fc819d4" name="Changes" comment="" />
+      <created>1684918397043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684918397043</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
